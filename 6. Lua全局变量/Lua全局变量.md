@@ -1,0 +1,2 @@
+##### 6. Lua全局变量
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;默认情况下，变量总是被认为是全局的。(全局)变量不需要申明，**`注意访问一个没有初始化的变量也是不会出错的，得到的变量的值是nil`**，nil相当于Python中的None，Java、C#、JavaScript中的null。当变量的值为nil时，该变量的内存空间会被释放，相当于这个变量被删除了。
