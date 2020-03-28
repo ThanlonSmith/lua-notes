@@ -1,4 +1,4 @@
-##### 2. Lua环境的安装
+##### di2. Lua环境的安装
 Linux平台[以Ubuntu Linux系统为例]：
 ```py
 # 从官网下载lua安装包，下载地址是http://www.lua.org/ftp/lua-5.3.5.tar.gz
